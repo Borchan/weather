@@ -59,8 +59,8 @@ src/
 1. Клонировать репозиторий:
 
     ```bash
-    git clone https://github.com/Borchan/testweth.git
-    cd weather-dashboard
+    git clone https://github.com/Borchan/weather.git
+    cd weather
     ```
 
 2. Установить зависимости:
