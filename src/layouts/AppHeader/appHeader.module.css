@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+    padding-inline: 48px;
+    line-height: 64px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4096ff;
+}
+.user,
+.paragraph {
+    align-items: center;
+    justify-content: center;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+}
+.paragraph {
+    font-size: 20px;
+    -moz-column-gap: 10px;
+    column-gap: 10px;
+}

@@ -1,0 +1,16 @@
+.weather {
+    max-height: 70vh;
+    padding: 50px;
+    width: 90%;
+    margin-inline: auto;
+    margin-block: auto;
+    border-radius: 25px;
+}
+.select {
+    width: 120px;
+}
+.alert {
+    margin: auto;
+    min-width: 700px;
+    min-height: 100px;
+}
